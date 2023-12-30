@@ -1,7 +1,7 @@
 {
   "APIs": {
     "zenz": "https://api.zahwazein.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "zenzkey_6b70a070a3a6"
   },
   "options": {
     "autoRead": true,
@@ -10,12 +10,12 @@
     "limitGame": 20
   },
   "exif": {
-    "packname": "Killua Zoldyck",
-    "author": "https://api.zahwazein.xyz"
+    "packname": "Created BY",
+    "author": "Tsan - BOTz\n@isna.zip"
   },
   "owner": [
-    "62812XXX"
+    "6285778225339"
   ],
   "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://api.zahwazein.xyz"
+  "footer": "© Tsan - BOTz"
 }
